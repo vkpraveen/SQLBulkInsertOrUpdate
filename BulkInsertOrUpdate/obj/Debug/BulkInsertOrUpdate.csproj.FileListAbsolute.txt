@@ -1,0 +1,7 @@
+C:\My Test\BulkInsertOrUpdate\BulkInsertOrUpdate\bin\Debug\BulkInsertOrUpdate.exe
+C:\My Test\BulkInsertOrUpdate\BulkInsertOrUpdate\bin\Debug\BulkInsertOrUpdate.pdb
+C:\My Test\BulkInsertOrUpdate\BulkInsertOrUpdate\obj\Debug\BulkInsertOrUpdate.csprojResolveAssemblyReference.cache
+C:\My Test\BulkInsertOrUpdate\BulkInsertOrUpdate\obj\Debug\BulkInsertOrUpdate.exe
+C:\My Test\BulkInsertOrUpdate\BulkInsertOrUpdate\obj\Debug\BulkInsertOrUpdate.pdb
+C:\My Git\SQLBulkInsertOrUpdate\BulkInsertOrUpdate\obj\Debug\BulkInsertOrUpdate.exe
+C:\My Git\SQLBulkInsertOrUpdate\BulkInsertOrUpdate\obj\Debug\BulkInsertOrUpdate.pdb
